@@ -1,6 +1,8 @@
 # Craps-Game
 The purpose of this project was to simulate a digital version of the gambling game Craps using both a graphical user interface, which was implemented using SceneBuilder, and the programming language Java. This project was developed in 2020 with two others, who will go unnamed as I have not asked whether they'd like to preserve anonymity, and myself.
 
+The zip file has been included in this repository in order to ensure easy download.
+
 Craps Rules
 
 Player Goal: To bankrupt the CPU by taking all it's money.
